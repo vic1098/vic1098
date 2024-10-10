@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am studying a BSc (Hons) in Software Development with Vr and Gaming in 4th year in TUS Athlone.<br>I have experience in Unity Development.<br>I am experienced in Python, C#, C, C++, Java, Java Script (Specifically Node.js), HTML, VUE.js.<br>I also have experience with Ai creation.
+I am studying a BSc (Hons) in Software Development with Vr and Gaming in 4th year in TUS Athlone.<br>I have experience in Unity Development.<br>I am experienced in Python, C, C++, C#, Java, Java Script (VUE.js, Node.js), HTML.<br>I also have experience with Ai creation.
 
 
 ## 🌐 Socials:
